@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+pdfplumber
+transformers
+torch
+scikit-learn
+nltk
+joblib
